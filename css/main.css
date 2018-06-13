@@ -1,0 +1,24 @@
+.push-top {margin-top: 20px;}
+.push-bottom {margin-bottom: 20px;}
+
+.box {padding: 10px;}
+.box div {
+	text-align: center;
+	font-weight: bold;
+	font-size: 20px;
+	width: 240px;
+}
+
+.box div a {
+	display: inline-block;
+	width: 100%;
+	background: #DA4167;
+	height: 100%
+}
+
+.option {}
+.match {}
+.answer {}
+
+.thumbnail {min-height: 50px;padding:0;border: none; border: none;}
+a.thumbnail {margin:0;padding: 10px; border-color: ;color: #fff;}
